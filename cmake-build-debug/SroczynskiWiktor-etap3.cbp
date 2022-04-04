@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="SroczynskiWiktor-etap3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SroczynskiWiktor-etap3">
+				<Option output="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/SroczynskiWiktor-etap3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 SroczynskiWiktor-etap3"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SroczynskiWiktor-etap3/fast">
+				<Option output="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/SroczynskiWiktor-etap3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 SroczynskiWiktor-etap3/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/wiktorsroczynski/Desktop/Studia/III\ semestr/Programowanie\ obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/BLIK.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/BLIK.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Chipsy.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Gotowka.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Gotowka.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Helper.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Karta.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Karta.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Napoj.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Napoj.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Polka_na_produkty.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Pseudo_baza_banku.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Pseudo_baza_banku.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/main.cpp">
+			<Option target="SroczynskiWiktor-etap3"/>
+		</Unit>
+		<Unit filename="/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

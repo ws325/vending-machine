@@ -1,0 +1,5 @@
+W trzecim etapie projektu dodałem stworzyłem klasę szablonową Polka_na_produkty, która jest zobrazowaniem półki w automacie na odpowiednie typy produktów np. napój lub baton.
+W klasie automat jest wektor, który przechowuje wskaźnik do takiej półki, a każda półka jest typu Produkt*, po to aby była możliwość przechowywania w wektorze obiektów różnych typów. Wykorzystuje tu polimorfizm i klasy baton, napój, chipsy dziedziczą po klasie produkt.
+W klasie szablonowej znajdują się funkcje do obsługi półki, między innymi funkcja drukująca oraz funkcje zwracające różne składniki prywatne.
+W projekcie są rzucane dwa typy wyjątków, będące w stanie obsłużyć zły wybór ID, błędne wybranie sposobu płatności, czy wrzucenie złej monety.
+

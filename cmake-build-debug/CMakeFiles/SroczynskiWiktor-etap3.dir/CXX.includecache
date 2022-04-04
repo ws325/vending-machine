@@ -1,0 +1,162 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.cpp
+Automat.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.h
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.h
+Polka_na_produkty.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Polka_na_produkty.h
+Baton.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.h
+Napoj.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Napoj.h
+Chipsy.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Chipsy.h
+Gotowka.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Gotowka.h
+Karta.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Karta.h
+BLIK.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/BLIK.h
+vector
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/BLIK.cpp
+BLIK.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/BLIK.h
+time.h
+-
+cstdlib
+-
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/BLIK.h
+Platnosc.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.cpp
+Baton.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.h
+Produkt.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Chipsy.h
+string
+-
+utility
+-
+Automat.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Gotowka.cpp
+Gotowka.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Gotowka.h
+Walidacja.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Gotowka.h
+Platnosc.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Helper.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Karta.cpp
+Karta.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Karta.h
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Karta.h
+Platnosc.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.h
+Pseudo_baza_banku.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Pseudo_baza_banku.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Napoj.cpp
+Napoj.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Napoj.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Napoj.h
+Produkt.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.cpp
+Platnosc.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.h
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Platnosc.h
+Walidacja.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Polka_na_produkty.h
+string
+-
+iostream
+-
+Produkt.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.h
+Baton.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Baton.h
+Walidacja.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.cpp
+Produkt.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Produkt.h
+string
+-
+utility
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Pseudo_baza_banku.cpp
+Pseudo_baza_banku.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Pseudo_baza_banku.h
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Pseudo_baza_banku.h
+iostream
+-
+string
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.cpp
+Walidacja.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h
+iostream
+-
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h
+string
+-
+Helper.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Helper.h
+
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/main.cpp
+iostream
+-
+fstream
+-
+Automat.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Automat.h
+Walidacja.h
+/Users/wiktorsroczynski/Desktop/Studia/III semestr/Programowanie obiektowe/Laboratorium/CLion/SroczynskiWiktor-etap3/Walidacja.h
+
